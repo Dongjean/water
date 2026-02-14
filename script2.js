@@ -4,6 +4,8 @@ Happy Valentine's Day babygirl! Even now, I cant believe how lucky I am to be ab
 
 Really dont know how you do it, but your existence just reels me in. You're my first thought in the morning, and my last thought I cherish to bed. You're the one who gives me pep talks in my head before exams, and you're the one who gives me strength to push through hard times. You're my girl, and I'm yours, and no matter what the world throws at us, I'll always stand by you.
 
+If I'm gonna be really honest with you, I fell in love with you at first sight, and fell in love again when we talked (drunk HAHHA). I'm falling deeper in love with you every day and I want to fall in love even deeper. I'll be the bigger man and say I loved you first, and I'll love you always <3
+
 Thank you for loving me. Thank you for always showing up even when things are hard and stressful, and I pledge to return this lifelong debt that I'm not sure how I can repay. I love you truly, and cheers to 1000 more years of love!
 
 With love,
@@ -166,4 +168,5 @@ openMailButton[0].addEventListener('transitionend', () => {
 const yesButton = buttonCont[0].children[0];
 yesButton.addEventListener('click', () => {
   yes();
+
 })
