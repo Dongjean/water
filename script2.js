@@ -6,7 +6,7 @@ Really dont know how you do it, but your existence just reels me in. You're my f
 
 If I'm gonna be really honest with you, I fell in love with you at first sight, and fell in love again when we talked (drunk HAHHA). I'm falling deeper in love with you every day and I want to fall in love even deeper. I'll be the bigger man and say I loved you first, and I'll love you always <3
 
-Thank you for loving me. Thank you for always showing up even when things are hard and stressful, and I pledge to return this lifelong debt that I'm not sure how I can repay. I love you truly, and cheers to 1000 more years of love!
+Thank you for loving me. Thank you for reminding me to drink water. Thank you for always showing up even when things are hard and stressful, and I pledge to return this lifelong debt that I'm not sure how I can repay. I love you truly, and cheers to 1000 more years of love!
 
 With love,
 Doji <3
@@ -170,3 +170,4 @@ yesButton.addEventListener('click', () => {
   yes();
 
 })
+
