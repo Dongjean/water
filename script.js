@@ -59,6 +59,7 @@ function revealGuess() {
     if (currentGuess === solution) {
       message.textContent = "You Win!";
       gameOver = true;
+      nextPage();
       return;
     }
 
@@ -133,5 +134,6 @@ function handleKey(e) {
     row.children[i].textContent = currentGuess[i] || "";
   }
 }
+
 
 document.addEventListener("keydown", handleKey);
