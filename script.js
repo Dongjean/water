@@ -32,7 +32,7 @@ function createBoard() {
   }
 }
 
-function revealGuess() {
+async function revealGuess() {
   const row = board.children[currentRow];
   const solutionLetters = solution.split("");
 
@@ -59,6 +59,7 @@ function revealGuess() {
     if (currentGuess === solution) {
       message.textContent = "You Win!";
       gameOver = true;
+      await delay(3000);
       nextPage();
       return;
     }
@@ -137,3 +138,4 @@ function handleKey(e) {
 
 
 document.addEventListener("keydown", handleKey);
+
