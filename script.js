@@ -59,7 +59,7 @@ async function revealGuess() {
     if (currentGuess === solution) {
       message.textContent = "You Win!";
       gameOver = true;
-      delay(3000);
+      //delay(3000);
       nextPage();
       return;
     }
@@ -138,5 +138,6 @@ function handleKey(e) {
 
 
 document.addEventListener("keydown", handleKey);
+
 
 
